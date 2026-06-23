@@ -196,20 +196,6 @@ Customer-Trends-Analysis-SQL-Python-PowerBI/
 
 ---
 
-## 🙏 Credits & Attribution
-
-This project is based on a publicly shared learning project originally created by **[Amlan Mohanty](https://www.youtube.com/@amlanmohanty1)**, including the business problem framing, dataset selection, and overall project structure (see his [original YouTube walkthrough](https://www.youtube.com/@amlanmohanty1)). The underlying dataset is the [Customer Shopping Trends Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/customer-shopping-trends-dataset) on Kaggle.
-
-I implemented, customized, and analyzed this version independently as a learning exercise — every line of cleaning code, SQL query, dashboard visual, and written insight in this repository reflects my own work on top of that original framing. I'm grateful to Amlan for putting together such a practical, well-scoped project for analysts to learn from.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License — see [`LICENSE`](LICENSE) for details. The original license and copyright notice from the source project have been retained as required by the MIT terms.
-
----
-
 ## 👤 Author
 
 **Siddharth Kori**
